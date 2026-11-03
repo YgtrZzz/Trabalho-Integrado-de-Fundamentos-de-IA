@@ -270,7 +270,7 @@ def carregar_ou_gerar_dados_p1(caminho_csv="data/sih_sus_ibge_p1.csv", forcar_ge
     ruido_val = 518.0 * ruido_base
 
     df[ALVO_REGRESSAO] = np.round(
-        2800.0 + comp_dias + comp_multi + ruido_val,
+        4200.0 + comp_dias + comp_multi + ruido_val,
         2,
     )
 
