@@ -4,7 +4,7 @@
 **Instituto de Computação (IComp)**  
 **Disciplina:** Fundamentos de Inteligência Artificial (2026/1)  
 **Docente:** Prof. Dr. Edjard de Souza Mota  
-**Discentes:** Ygor Gutierrz Pereira   
+**Discentes:** Ygor Gutierrz Pereira, Tiago Gil de Brito da Encarnação, André Silveira cavalcanti, Gilson Almeida Martins Filho, Sofia Braga Cavalcante 
 
 
 ---
