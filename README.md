@@ -1,4 +1,4 @@
-# Trabalho Integrado de Fundamentos de Inteligência Artificial
+# Trabalho Integrado de Fundamentos de Inteligência Artificial.
 
 **Universidade Federal do Amazonas (UFAM)**  
 **Instituto de Computação (IComp)**  
